@@ -1,7 +1,7 @@
 # E-olymp solutions. E-olymp Həlləri
 # Python
 ## [e-olymp profile](https://www.e-olymp.com/en/users/MureZa)
-
+---
 ### 0000-1000
 | Problems - Məsələlər - Задачи | Solution - Həll - Решение |
 |-------------------------------|---------------------------|
