@@ -1,5 +1,4 @@
-# E-olymp solutions. E-olymp Həlləri
-# Python
+# E-olymp solutions. E-olymp Həlləri. E-olymp Решение
 ## [e-olymp profile](https://www.e-olymp.com/en/users/MureZa)
 ---
 ### 0000-1000
