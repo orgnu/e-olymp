@@ -81,4 +81,17 @@
 ---
 
 ### 1000-2000
-
+| Problems - Məsələlər - Задачи | Solution - Həll - Решение |
+|-------------------------------|---------------------------|
+|[ 1024 ](https://www.e-olymp.com/en/problems/1024) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1024.py)| 
+|[ 1118 ](https://www.e-olymp.com/en/problems/1118) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1118.py)| 
+|[ 1265 ](https://www.e-olymp.com/en/problems/1265) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1265.py)| 
+|[ 1286 ](https://www.e-olymp.com/en/problems/1286) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1286.py)| 
+|[ 1351 ](https://www.e-olymp.com/en/problems/1351) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1351.py)| 
+|[ 1603 ](https://www.e-olymp.com/en/problems/1603) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1603.py)| 
+|[ 1606 ](https://www.e-olymp.com/en/problems/1606) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1606.py)| 
+|[ 1607 ](https://www.e-olymp.com/en/problems/1607) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1607.py)|
+|[ 1609 ](https://www.e-olymp.com/en/problems/1609) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1609.py)|
+|[ 1623 ](https://www.e-olymp.com/en/problems/1658) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1623.py)|
+|[ 1658 ](https://www.e-olymp.com/en/problems/1658) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1658.py)|
+|[ 1952 ](https://www.e-olymp.com/en/problems/1952) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1952.py)|
