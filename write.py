@@ -1,8 +1,8 @@
-test= [1024,1118,1265,1286,1351,1603,1606,1607,1609,1658,1952]
+test= [2042,2043,2044,2071,2131,2162,2392,2606,2666,2667,2807,2862,2863,2864,]
 import os.path
-save_path = 'C:/Users/Nurlan/Documents/GitHub/e-olymp/1000-2000'
+save_path = 'C:/Users/Nurlan/Documents/GitHub/e-olymp/2000-3000'
 for i in test:
-    
+
     fileName = os.path.join(save_path, str(i)+".py")  
     filePy = open(fileName, "w")
     filePy.close() 

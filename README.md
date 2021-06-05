@@ -95,3 +95,21 @@
 |[ 1623 ](https://www.e-olymp.com/en/problems/1658) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1623.py)|
 |[ 1658 ](https://www.e-olymp.com/en/problems/1658) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1658.py)|
 |[ 1952 ](https://www.e-olymp.com/en/problems/1952) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/1952.py)|
+
+### 2000-3000
+| Problems - Məsələlər - Задачи | Solution - Həll - Решение |
+|-------------------------------|---------------------------|
+|[ 2042 ](https://www.e-olymp.com/en/problems/2042) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2042.py)| 
+|[ 2043 ](https://www.e-olymp.com/en/problems/2043) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2043.py)|
+|[ 2044 ](https://www.e-olymp.com/en/problems/2044) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2044.py)|
+|[ 2071 ](https://www.e-olymp.com/en/problems/2071) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2071.py)|
+|[ 2131 ](https://www.e-olymp.com/en/problems/2131) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2131.py)|
+|[ 2162 ](https://www.e-olymp.com/en/problems/2162) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2162.py)|
+|[ 2392 ](https://www.e-olymp.com/en/problems/2392) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2392.py)|
+|[ 2606 ](https://www.e-olymp.com/en/problems/2606) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2606.py)|
+|[ 2666 ](https://www.e-olymp.com/en/problems/2666) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2666.py)|
+|[ 2667 ](https://www.e-olymp.com/en/problems/2667) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2667.py)| 
+|[ 2807 ](https://www.e-olymp.com/en/problems/2807) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2807.py)|
+|[ 2862 ](https://www.e-olymp.com/en/problems/2862) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2862.py)|
+|[ 2863 ](https://www.e-olymp.com/en/problems/2863) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2863.py)|
+|[ 2864 ](https://www.e-olymp.com/en/problems/2864) | [ 100% ](https://github.com/nurlangarash/e-olymp/blob/main/0000-1000/2864.py)|
